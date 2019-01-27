@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+#home {
+  background-color: dodgerBlue;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 0;
+}
+
+#home a{
+  color: white;
+}
+
+.userDetail{
+  margin-top: 10px;
+  height: 50vh;
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: dodgerBlue;
+  font-size: larger;
+  color: white;
+}
